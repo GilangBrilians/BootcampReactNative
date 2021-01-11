@@ -1,5 +1,5 @@
 Data Peserta Sanbercode Bootcamp React Native
-1. Nama: sanbercode
-2. Email: sanbercode@gmail.com
-3. Akun Gitlab: @sanbercode
-4. Akun Telegram: @sanbercode
+1. Nama: Gilang sanbercode
+2. Email: gilang@gmail.com
+3. Akun Gitlab: @gilang_sanbercode
+4. Akun Telegram: @gilang_sanbercode
