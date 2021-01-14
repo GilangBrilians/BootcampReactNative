@@ -1,7 +1,6 @@
 //soal nomor 1
 
 var i = 1
-
 console.log("LOOPING PERATAMA")
 
 while( i <= 20 ){
@@ -13,12 +12,8 @@ while( i <= 20 ){
         i++
     }
 }
-
-
 console.log("LOOPING KEDUA")
-
 var j = 20
-
 
 while( j > 0 ){
     if(j % 2 == 0){
