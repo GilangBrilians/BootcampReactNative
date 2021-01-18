@@ -178,7 +178,7 @@ function dataHandling2(test){
     urutan = newttl.sort(function (value1, value2) { return value2 - value1 } ) ;
     console.log(urutan)
 
-    gabung = ttl.join("-")
+    gabung = ttl.join("-") 
     console.log(gabung)
     
     nama = test.splice(1,1)
